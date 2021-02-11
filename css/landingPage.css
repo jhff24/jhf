@@ -1,0 +1,95 @@
+
+#imageRight {
+    background-image: url("./jodyAndMeNoBoPark.jpg") !important;
+    background-color: #cccccc;
+    background-size: 100%;
+    color:white;
+    height:100% !important;
+}
+
+#landingOverview {
+    text-align: center;
+}
+
+body, html, .container, .row {
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+First go css from scratch
+This all applies to content that is not currently in customers
+
+
+.landing-btn h3{
+    text-align: center;
+    vertical-align: bottom;
+}
+
+#tutor-landing-btn {
+    background-image: url("tutorLandingImage.png") !important;
+    background-color: #cccccc;
+    background-size: 100%;
+    color:white;
+}
+
+#prog-landing-btn {
+    background-image: url("programmingLandingImage.png") !important;
+    background-color: #cccccc;
+    background-size: 100%;
+    color:white;
+}
+
+#handy-landing-btn {
+    background-image: url("handymanLandingImage.png") !important;
+    background-color: #cccccc;
+    background-size: 100%;
+    color:white;
+}
+
+#resume-landing-btn {
+
+    background-color: white;
+    background-size: 100%;
+    color:black;
+    opacity:0.8;
+}
+
+#resume-landing-btn h3 {
+    opacity:1;
+}
+
+html, body {
+    margin:0;
+    height: 100%;
+    width:100%;
+    background-color: #bababa;
+}
+
+.container {
+    height:100% !important;
+}
+
+.row {
+    height: 50% !important;
+    width:100%;
+}
+*/
